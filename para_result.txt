@@ -1,0 +1,12 @@
+volume: 300
+is_handle: 0
+rim_radius: 35
+bottom_ratio: 0.8
+waist_w_ratio: 0.7
+shape_smooth: 0.6
+body_mat: 0
+handle_mat: 0
+color_1: #E5CDA2
+color_2: #F5DEB3
+lip_color: #FFFFFF
+graphic: A simple floral design with delicate ink brush style, adding cultural refinement.
